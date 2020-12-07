@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d84fbe1d-39d5-41ad-9a56-ccc88b0a4bb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7f3oIP49MlRtZVFFkUD8W3uGh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AMPScanner2_Scripts0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daima\APIN-master1\data" />
+      <recent name="D:\daima\APIN-master1" />
+      <recent name="D:\daima\APIN-master" />
+      <recent name="D:\daima\APIN-master\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.proposed_model">
+    <configuration name="L21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proposed_fusion_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proposed_fusion_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proposed_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proposed_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testACC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testACC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.proposed_model" />
+        <item itemvalue="Python.proposed_fusion_model" />
+        <item itemvalue="Python.L21" />
+        <item itemvalue="Python.testACC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84fbe1d-39d5-41ad-9a56-ccc88b0a4bb0" name="Default Changelist" comment="" />
+      <created>1603159854492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603159854492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603185081014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603185081014" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1607305732770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1607305732770" />
+    <state x="569" y="163" key="FileChooserDialogImpl" timestamp="1605855957867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="163" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605855957867" />
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1607305689423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607305689423" />
+    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1607305689423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607305689423" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1607305689423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607305689423" />
+    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1607305689423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607305689423" />
+    <state width="1515" height="273" key="GridCell.Tab.1.bottom" timestamp="1606210097257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="273" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606210097257" />
+    <state width="1515" height="273" key="GridCell.Tab.1.center" timestamp="1606210097257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="273" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606210097257" />
+    <state width="1515" height="273" key="GridCell.Tab.1.left" timestamp="1606210097257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="273" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606210097257" />
+    <state width="1515" height="273" key="GridCell.Tab.1.right" timestamp="1606210097257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="273" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606210097257" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1605942612344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605942612344" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1603188297506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1603188297506" />
+    <state x="363" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603612733256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="363" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1603612733256" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603194528086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603194528086" />
+  </component>
+</project>
